@@ -1,0 +1,5 @@
+homepageurl: http://localhost/index.php
+admin-user: admin@admin.com
+adminpass: admin
+non-admin user: user@user.com
+non-admin password : user
